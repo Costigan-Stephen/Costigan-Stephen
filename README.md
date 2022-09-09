@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ruby, Machine Learning Python, and Unreal Engine**
 
-- 📫 How to reach me **steve@costigan.co**
+- 📫 How to reach me **steve@wallabydesigns.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
