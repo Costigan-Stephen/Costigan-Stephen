@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stephen Costigan</h1>
-<h3 align="center">I have a bachelors in Web Development, and one in Software Engineering</h3>
+<h3 align="center">I graduated Summa Cum Laude with one bachelors in Web Development, and one in Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=costigan-stephen&label=Profile%20views&color=0e75b6&style=flat" alt="costigan-stephen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=costigan-stephen" alt="costigan-stephen" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby, Machine Learning Python, and Unreal Engine**
+- 🌱 I’m currently learning **Ruby, Rust, Machine Learning Python, and Unreal Engine**
 
 - 📫 How to reach me **steve@wallabydesigns.com**
 
