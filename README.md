@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steve</h1>
-<h3 align="center">I graduated Summa Cum Laude with one bachelors in Web Development, and one in Software Engineering</h3>
+<h3 align="center">I graduated Summa Cum Laude with a bachelors in Web Development, and a second bachelors in Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=costigan-stephen&label=Profile%20views&color=0e75b6&style=flat" alt="costigan-stephen" /> </p>
 
